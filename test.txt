@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-main_hello
-=======
-qwqwq11
->>>>>>> mylocal
+main_hello_practice
+push_hello_practice
